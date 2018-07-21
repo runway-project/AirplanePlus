@@ -5,19 +5,29 @@ All the parts are under GameData/AirplanePlus/Parts
 
 AERO
 	bigwing			-		FAT-T3R Aeroplane Main Wing
+	smallwings (elevon2b)	-		Elevon 2B
+	smallwings (halfwing)	-		Wing Connector Type F
+	smallwings (halfwinglw)	-		Wing Connector Type G
+	smallwings (halfwinglw2)-		Wing Connector Type H
+	smallwings (wing4)	-		Wing Connector Type I
+	smallwings (wing6)	-		Wing Connector Type J
+	smallwings (wing6-2)	-		Wing Connector Type K
 
 COMMAND
-	bellCockpit 		- 		Mk1 Viewer's Cockpit
+	bellcockpit 		- 		Mk1 Viewer's Cockpit
 	citationcockpit		-		MK1 Business Cockpit
+	falconcockpit		-		Mk2 Non-Commercial Cockpit
 	fightercockpit		-		MK1 Non-Commercial Cockpit
+	fighterinlinecockpit	-		MK1 Inline Non-Commercial Cockpit
 	mk1drone		-		MK1 Drone Core
 	oh6cockpit		-		MK1 Viewer's Cockpit II
-	zeroCockpit 		- 		MK1/0 Caged Inline Cockpit
+	oldfightercockpit	-		MK1 Caged Inline Cockpit
+	zerocockpit 		- 		MK1/0 Caged Inline Cockpit
+	
 
 PAYLOAD
 	Mk1Door			-		Mk1 Cargo Bay CRG-50-1
 	Mk1DroneDoor		-		Mk1 Nose Trunk CRG-NT
-	PassengerDoor		-		Mk1 Passenger Door
 
 
 STRUCTURE AND FUEL
@@ -30,6 +40,7 @@ STRUCTURE AND FUEL
 	ShortBoom2 		- 		Short Tail Connector A	
 
 UTILITY
+	Navlight		-		Navigation Illuminator
 	Skid 			- 		Anti-Roll Landing Skids
 
 

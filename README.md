@@ -2,7 +2,7 @@
 
 This is a unofficial, non authorized repository for Airplane Plus for historical reference and troubleshooting.
 
-This AddOn is (C) [blackheart612](https://spacedock.info/profile/blackheart612) and licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?), what allows you to:
+This AddOn is (C) [blackheart612](https://spacedock.info/profile/blackheart612) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
 
 * copy and redistribute the material in any medium or format
 
@@ -28,7 +28,8 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 ## References
 
-* [KSP Forum](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
+* [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
 * Official Distribution Sites
 	* [Spacedock](https://spacedock.info/mod/716/Airplane%20Plus)
-	* [CurseForge](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
+	* [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
+	* [GitHub](https://github.com/blackheart612/AirplanePlus)

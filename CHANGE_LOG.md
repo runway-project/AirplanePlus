@@ -1,5 +1,75 @@
 # Airplane Plus :: Change Log
 
+* 2020-0124: 26.5 (blackheart612) for KSP 1.8.1
+	+ Fixed blank textures
+* 2019-1221: 26.4 (blackheart612) for KSP 1.8.1
+	+ Fixed Squad's new path for cone textures wrongly referenced in the config
+	+ Fixed J-34 "Chevron" High-Bypass Turbofan Engine having Jettison Module when not needed
+* 2019-1212: 26.3 (blackheart612) for KSP 1.8.0
+	+ DDS conversion of some of the files to DXT5 (klgraham1013)
+	+ Fixes on modulecargobay and bulkheadprofiles for payload parts*(Jognt)
+		- Mk1 Passenger Door
+		- Mk1 Nose Trunk CRG-NT
+		- Mk1 Junior Cargo Bay CRG-50-0
+* 2019-1028: 26.2 (blackheart612) for KSP 1.8.0
+	+ Fixed issue where Leading Edge Slat Straight model is off-center
+	+ Fixed texture not found for various parts*
+		- K73 "Beluga" Turboshaft Engine
+		- Mk1 Cargo Bay CRG-50-1
+		- Size 2 Commercial Cockpit
+		- Size 2 Viewer's Cockpit II
+		- MK1 Inline Non-Commercial Cockpit
+		- MK1 Viewer's Cockpit II
+		- MK1 Caged Inline Cockpit
+		- MK1 Supersonic Cockpit
+* 2019-0327: 26.1 (blackheart612) for KSP 1.6.1
+	+ Fixed missing bulkhead profiles on configs causing part catalog to break when filtering by bulkheads (linuxgurugamer)
+	+ Corrected J-119 "Cheetah" Afterburning Turbofan bulkhead profile
+	+ Added tags on a few engines
+* 2019-0321: 26.0 (blackheart612) for KSP 1.6.1
+	+ Completely Reworked K1710 "Whirlwind" Engine - now with a total of 6 variants*
+		- Last 3 variants will include Mk3 version of the first 3
+	+ Added J-56 "Lotus" High-Bypass Turbofan Engine variant removing the pylons
+	+ Fixed Size 1 100-KE Auxiliary Power Engine having wrong attachment points
+	+ Fixed Size 2 Non-Commercial Cockpit textures
+	+ Updated all Auxiliary Power Engine wrong Center of Mass
+	+ Updated J-34 "Chevron" High-Bypass Turbofan Engine wrong Center of Mass
+	+ Updated all hollow parts and hollow parts with animated doors' Drag Cubes for better Aero
+	+ Updated Firespitter to fix issue where choosing any other categorization except default will break the part catalog
+* 2019-0131: 25.0 (blackheart612) for KSP 1.6.
+	+ Added Size 2 Non-Commercial Cockpit based on C-130 Hercules
+	+ Added Size 1 100-KE Auxiliary Power Engine based on Honeywell RE-100 and RE-220 APUs
+	+ Added Size 1.5 220-KE Auxiliary Power Engine based on Honeywell RE-220 APU
+	+ Added Size 2 131-9K Auxiliary Power Engine based on Honeywell 131-9A APU
+	+ Fixed issue where obsolete texture paths on landing gears cause NREs
+	+ Fixed issue where Kerbal Standard has a missing title
+	+ Fixed some landing gears having omitted aerodynamic changes when deployed/undeployed
+	+ Updated for 1.6.x
+* 2018-1002: 24.0 (blackheart612) for KSP 1.4.5
+	+ Added MK3S1 Cockpit based on Cessna 152 and Best off Skyranger
+	+ Added L K-235 "Cat" Turboprop Engine based on 152 and 182 Skylane
+	+ Added Mk3S1 Crew Cabin
+	+ Added Mk3S1 Nosecone
+	+ Added Mk3S1 Adjustable Ramp Intake, a based off the stock one
+	+ Added Mk3S0 Nosecone
+	+ Added Angled Wing Connector A*
+	+ Added Angled Wing Connector B*
+	+ Added Angled Wing Connector C*
+	+ Added Angled Wing Connector D*
+		- angled 5 degrees
+	+ Added experimental Mk3SX variant for*
+	+ J-119 "Cheetah" Afterburning Turbofan (Raptor Jet Engine)
+	+ Added Pontoon and Pontoon-Mk3S options for*
+		- Mk3S1 Liquid Fuel Fuselage
+		- Mk3S0 Liquid Fuel Fuselage
+		- Mk3S1 Liquid Fuel Fuselage Junior
+		- Mk3S0 Liquid Fuel Fuselage Junior
+	+ Resized FAT-T3R Aeroplane Main Wing (C-130 wing)
+	+ Resized RR K56 "Titan" Turboprop Engine (C-130 engine)
+	+ Adjusted various tech tree nodes, allowing earlier flight*
+		- Includes rotors and wing parts
+	+ Fixed KS-FAT-29 Huge Landing Gear with wrong turning animation
+	+ Modified some landing gear values (some still bouncy, mostly not my fault)
 * 2018-0720 : Release 23.0 for KSP 1.4.4
 	- Added Size 1.5 Cockpit based on the CRJ series
 	- Added J-34 "Chevron" High-Bypass Turbofan Engine based on E-170's CF34 as well as CRJ-900

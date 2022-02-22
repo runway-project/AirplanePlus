@@ -1,1 +1,3 @@
 *.blend1
+*_autosave_*
+*.painter_lock

@@ -1,5 +1,5 @@
 # AirplanePlusPlus
-The Revival of AirplanePlus, bringing it up to 1.12.3, and introducing new content fit for the KSP Aircraft Community
+A spin off of AirplanePlus focused on introducing further content inline with the style of existing parts, and fixing bugs caused by the mod being outdated
 
 ## New Parts On The List For Future Updates:
   - Eurofighter Typhoon Cockpit

@@ -1,14 +1,10 @@
-# AirplanePlusPlus
-The Revival of AirplanePlus, bringing it up to 1.12.3, and introducing new content fit for the KSP Aircraft Community
+# AirplanePlusPlus Dev Branch
+Home for all WIP parts and early access to new parts before full releases
 
-## New Parts On The List For Future Updates:
-  - Eurofighter Typhoon Cockpit
-  - F-22 Cockpit
-  - Saab Gripen Cockpit
-  - SU-27 Cockpit
-  - Single Seat F-18 Cockpit
+## Pull Requests and fixes:
+If you wish to send a pull request for fixes or updates to the code to be looked at, use this dev branch instead of the main branch
 
-More Will be added including additional wing panels and part kits for normally impossible airframe styles in KSP
+### ANY NEW CONTENT IN THE DEV BRANCH IS LIKELY TO BE BUGGY OR HAVE ISSUES!! REPORT THESE ISSUES SO THEY CAN BE FIXED IF THEY ARENT ALREADY KNOWN ISSUEs
 
 
 ## SpaceDock Link:

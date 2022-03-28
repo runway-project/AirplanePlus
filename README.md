@@ -45,11 +45,7 @@ But explicitly forbids you to:
 
 All assets under the following subdirectories:
 
-* [Parts/Aero/f100intake](./GameData/AirplanePlus/Parts/Aero/f100intake)
-* [Parts/Aero/f22elev](./GameData/AirplanePlus/Parts/Aero/f22elev)
-* [Parts/Aero/sideintake](./GameData/AirplanePlus/Parts/Aero/sideintake)
-* [Parts/Command/f100cockpit](./GameData/AirplanePlus/Parts/Command/f100cockpit)
-* [Parts/Command/typhooncockpit](./GameData/AirplanePlus/Parts/Command/typhooncockpit)
+* [Plus](./GameData/AirplanePlus/Plus)
 
 are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824), [Concodroid](https://forum.kerbalspaceprogram.com/index.php?/profile/153976-concodroid/) & [MyraJia](https://github.com/MyraJia) and licensed under [MIT/Expat](https://opensource.org/licenses/MIT), what allows you to:
 

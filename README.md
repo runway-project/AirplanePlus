@@ -47,13 +47,7 @@ All assets under the following subdirectories:
 
 * [Plus](./GameData/AirplanePlus/Plus)
 
-are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824), [Concodroid](https://forum.kerbalspaceprogram.com/index.php?/profile/153976-concodroid/) & [MyraJia](https://github.com/MyraJia) and licensed under [MIT/Expat](https://opensource.org/licenses/MIT), what allows you to:
-
-* copy and redistribute the material in any medium or format
-* create derivatives
-* sublicense
-* use commercially
-
+are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824), [Concodroid](https://forum.kerbalspaceprogram.com/index.php?/profile/153976-concodroid/) & [MyraJia](https://github.com/MyraJia) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?).
 
 ## References
 

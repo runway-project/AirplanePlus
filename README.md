@@ -1,62 +1,38 @@
-# Airplane+ /L Unofficial
+# AirplanePlusPlus
 
-Powerful stockalike parts for aircraft enthusiasts.
+A spin off of AirplanePlus focused on introducing further content inline with the style of existing parts, and fixing bugs caused by the mod being outdated 
 
-Unofficial fork by Lisias.
+(credits go to Blackheart612 for making and maintaining AP+)
 
+## New Parts On The List For Future Updates:
+  
+  - Eurofighter Typhoon Cockpit
+  - F-22 Cockpit
+  - Single Seat F-18 Cockpit
+  - 0.625m Gimballing engine
+  - Elevators/Canards/Wing parts
+  - A 2nd/3rd gen cockpit
+  - A new, expansive 0.9375m selection of parts
 
-## In a Hurry
+More Will be added including additional wing panels and part kits for normally impossible airframe styles in KSP
 
-* [Latest Release](https://github.com/net-lisias-kspu/AirplanePlus/releases)
-	+ [Binaries](https://github.com/net-lisias-kspu/AirplanePlus/tree/Archive)
-* [Source](https://github.com/net-lisias-kspu/AirplanePlus)
-* Documentation
-	+ [Project's README](https://github.com/net-lisias-kspu/AirplanePlus/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-kspu/AirplanePlus/blob/master/INSTALL.md)
-	+ [Change Log](./CHANGE_LOG.md)
-	+ [Known Issues](./KNOWN_ISSUES.md) list
+## License
 
+Please note the copyrights and trademarks in [NOTICE](./NOTICE). 
 
-## Description
+### Assets by blackheart612
 
-Aircraft Collection Album: https://imgur.com/a/ySFgL
+Unless explicitly stated otherwise, all assets under the following subdirectories on `GameData/AirplanePlus`:
 
-The latest information, craft files, pictures and Manual Patches from Users are also in the forums (Tweakscale and RPM for certain parts).
+* [Agencies](./GameData/AirplanePlus/Agencies)
+* [Compatibility](./GameData/AirplanePlus/Compatibility)
+* [FX](./GameData/AirplanePlus/FX)
+* [Parts](./GameData/AirplanePlus/Parts)
+* [Props](./GameData/AirplanePlus/Props)
+* [Sounds](./GameData/AirplanePlus/Sounds)
+* [Spaces](./GameData/AirplanePlus/Spaces)
 
-![](./Docs/imgs/f2SCfef.jpg)
-
-Adds a collection plane parts which came from different timelines.. All of which are in the image album. Feel free to take a look. If you think that there are too many parts, consult the part deleter's guide in the zip.
-
-Most engine performance configurations made possible with the help of Tanner Rawlings.
-
-### Images
-
-#### Halved Mk2 Parts
-
-![](./Docs/imgs/YAbTGlr.png)
-![](./Docs/imgs/694onwt.jpg)
-
-#### Mk1 Sliding Door Cargo Bay
-
-![](./Docs/imgs/fWmo8cb.gif)
-
-#### Cockpits
-
-See [imgur album](http://imgur.com/a/q3FAx)
-
-#### Landing Gears Demo Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WVW5x16ZSCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-## Installation
-
-Detailed installation instructions are now on its own file (see the [In a Hurry](#in-a-hurry) section) and on the distribution file.
-
-
-## License:
-
-This AddOn licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
+are ©[blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
 
 * copy and redistribute the material in any medium or format
 * create derivatives
@@ -65,10 +41,15 @@ But explicitly forbids you to:
 
 * Exploit it commercially
 
-Please note the copyrights and trademarks in [NOTICE](./NOTICE).
+### Assets by Drag0nD3str0yer
 
+All assets under the following subdirectories:
 
-## UPSTREAM
+* [Plus](./GameData/AirplanePlus/Plus)
+
+are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824), [Concodroid](https://forum.kerbalspaceprogram.com/index.php?/profile/153976-concodroid/) & [MyraJia](https://github.com/MyraJia) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?).
+
+## References
 
 * [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/)
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)

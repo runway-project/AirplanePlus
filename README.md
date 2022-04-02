@@ -2,7 +2,6 @@
 
 A spin off of AirplanePlus focused on introducing further content inline with the style of existing parts, and fixing bugs caused by the mod being outdated 
 
-(credits go to Blackheart612 for making and maintaining AP+)
 
 ## New Parts On The List For Future Updates:
   

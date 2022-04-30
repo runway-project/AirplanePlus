@@ -1,4 +1,4 @@
-# Airplane Plus :: Change Log
+# Airplane+ :: Change Log
 
 * 2020-0124: 26.5 (blackheart612) for KSP 1.8.1
 	+ Fixed blank textures

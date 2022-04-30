@@ -1,10 +1,31 @@
-# AirplanePlusPlus
+# AirplanePlus /L
 
-A spin off of AirplanePlus focused on introducing further content inline with the style of existing parts, and fixing bugs caused by the mod being outdated 
+A spin off of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
 
-(credits go to Blackheart612 for making and maintaining AP+)
+Developed in the past by [Blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) (eternal thanks for making and maintaining AP+!), currently by [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/). This repository is maintained (with authorisation) by LisiasT.
 
-## New Parts On The List For Future Updates:
+## In a Hurry
+
+* [Source](https://github.com/net-lisias-ksp/TweakScale)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/AirplanePlus/issues)
+* Documentation
+	+ Forum (WiP)
+	+ [Project's README](https://github.com/net-lisias-ksp/AirplanePlus/blob/master/README.md)
+	+ [Install Instructions](https://github.com/net-lisias-ksp/AirplanePlus/blob/master/INSTALL.md)
+	+ [Change Log](./CHANGE_LOG.md)
+* Official Distribution Sites:
+	+ Homepage (WiP)
+	+ CurseForge (WiP)
+	+ SpaceDock (WiP)
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/AirplanePlus) on GitHub.
+	+ [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
+		- Binaries (WiP)
+
+## Description
+
+A spin off of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
+
+### New Parts On The List For Future Updates:
   
   - Eurofighter Typhoon Cockpit
   - F-22 Cockpit
@@ -36,7 +57,7 @@ are ©[blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42
 
 * copy and redistribute the material in any medium or format
 * create derivatives
- 
+
 But explicitly forbids you to:
 
 * Exploit it commercially
@@ -51,7 +72,7 @@ are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=me
 
 ## References
 
-* [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/)
+* [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) ROOT
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
 	+ Imgur
 		- [AirplanePlus](https://imgur.com/a/6kDLM)
@@ -59,3 +80,5 @@ are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=me
 	+ [Spacedock](https://spacedock.info/mod/716/Airplane%20Plus)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
 	+ [GitHub](https://github.com/blackheart612/AirplanePlus)
+* [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/) DEV Stream
+	+ [GitHub](https://github.com/Drag0nD3str0yer/AirplanePlus)

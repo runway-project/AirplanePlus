@@ -1,8 +1,10 @@
 # AirplanePlus /L
 
-A spin off of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
+A fork of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
 
-Developed in the past by [Blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) (eternal thanks for making and maintaining AP+!), currently by [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/). This repository is maintained (with authorisation) by LisiasT.
+Developed and maintained in the past by [Blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) (eternal thanks for making and maintaining AP+!), currently in collaboration by [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/), [Skalou](https://forum.kerbalspaceprogram.com/index.php?/profile/133496-skalou/) and, yours truly, [Lisias](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/).
+
+This repository is maintained (with authorisation) by LisiasT.
 
 ## In a Hurry
 
@@ -23,19 +25,25 @@ Developed in the past by [Blackheart612](https://forum.kerbalspaceprogram.com/in
 
 ## Description
 
-A spin off of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
+A fork of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
 
-### New Parts On The List For Future Updates:
-  
-  - Eurofighter Typhoon Cockpit
-  - F-22 Cockpit
-  - Single Seat F-18 Cockpit
-  - 0.625m Gimballing engine
-  - Elevators/Canards/Wing parts
-  - A 2nd/3rd gen cockpit
-  - A new, expansive 0.9375m selection of parts
+## Plans
 
-More Will be added including additional wing panels and part kits for normally impossible airframe styles in KSP
+Under current circumstances, this fork is serving as the home of all part additions to the mod.
+
+### Current Parts Added:
+
+* F-100 Cockpit
+* F-100 Intake
+* F-22 Elevon
+* 5 Various Side Intakes (Provided by SuicidalInsanity)
+
+### Current Parts Planned:
+* BAD-T Jets (Provided by SuicidalInsanity)
+* F-104 Intake (based around MK3S1 parts)
+* MK0.5 (0.9375m) Form Factor of Parts
+* More Wing Shapes and Sizes
+* Various Part Suggestions
 
 ## License
 
@@ -68,7 +76,7 @@ All assets under the following subdirectories:
 
 * [Plus](./GameData/AirplanePlus/Plus)
 
-are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824), [Concodroid](https://forum.kerbalspaceprogram.com/index.php?/profile/153976-concodroid/) & [MyraJia](https://github.com/MyraJia) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?).
+are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?).
 
 ## References
 
@@ -80,5 +88,6 @@ are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=me
 	+ [Spacedock](https://spacedock.info/mod/716/Airplane%20Plus)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
 	+ [GitHub](https://github.com/blackheart612/AirplanePlus)
-* [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/) DEV Stream
-	+ [GitHub](https://github.com/Drag0nD3str0yer/AirplanePlus)
+* DEV stream
+	* [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/)
+		+ [GitHub](https://github.com/Drag0nD3str0yer/AirplanePlusPlus)

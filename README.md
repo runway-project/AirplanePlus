@@ -13,12 +13,11 @@ Under current circumstances, this fork is serving as the home of all part additi
 * F-100 Intake
 * F-22 Elevon
 * F-4 based Side intake (WIP)
-* BAD-T Early Jet Engines (Provided by SuicidalInsanity)
+* Various Side Intakes (Provided by SuicidalInsanity)
 
 ### Current Parts Planned:
-
+* BAD-T Jets (Provided by SuicidalInsanity)
 * F-104 Intake (based around MK3S1 parts)
-* Various Side Intakes (Provided by SuicidalInsanity)
 * MK0.5 (0.9375m) Form Factor of Parts
 * More Wing Shapes and Sizes
 * Various Part Suggestions

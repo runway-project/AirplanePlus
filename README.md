@@ -8,12 +8,10 @@ Under current circumstances, this fork is serving as the home of all part additi
 
 ### Current Parts Added:
 
-* Typhoon Cockpit (WIP)
 * F-100 Cockpit
 * F-100 Intake
 * F-22 Elevon
-* F-4 based Side intake (WIP)
-* Various Side Intakes (Provided by SuicidalInsanity)
+* 5 Various Side Intakes (Provided by SuicidalInsanity)
 
 ### Current Parts Planned:
 * BAD-T Jets (Provided by SuicidalInsanity)

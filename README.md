@@ -1,10 +1,10 @@
-# AirplanePlus /L
+# AirplanePlus (Plus)
 
 A fork of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
 
-Developed and maintained in the past by [Blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) (eternal thanks for making and maintaining AP+!), currently in collaboration by [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/), [Skalou](https://forum.kerbalspaceprogram.com/index.php?/profile/133496-skalou/) and, yours truly, [Lisias](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/).
+Previously developed and maintained by [Blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) (eternal thanks for making and maintaining AP+!), currently in collaboration by [Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/index.php?/profile/173824-drag0nd3str0yer/), [Skalou](https://forum.kerbalspaceprogram.com/index.php?/profile/133496-skalou/) and, yours truly, [Lisias](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/).
 
-This repository is maintained (with authorisation) by LisiasT.
+This repository is maintained (with authorisation) by Lisias.
 
 ## In a Hurry
 
@@ -44,6 +44,7 @@ Under current circumstances, this fork is serving as the home of all part additi
 * MK0.5 (0.9375m) Form Factor of Parts
 * More Wing Shapes and Sizes
 * Various Part Suggestions
+
 
 ## License
 

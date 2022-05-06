@@ -96,3 +96,5 @@ for dll in $DLLS ; do
     deploy_dev $dll
     deploy $dll
 done
+
+cp "Docs/Part Deleter's Guide.txt" ./GameData

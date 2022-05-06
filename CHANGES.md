@@ -1,2 +1,21 @@
 # Airplane+ :: Changes
 
+* 2022-0506: 26.6.0.0 (Drag0nD3str0yer & LisiasT) for KSP => 1.8.0
+	+ Marks the stewardship of AirplanePlus to Drag0nD3str0yer & LisiasT.
+	+ Adds new parts (by Drag0nD3str0yer)
+		- F-100 Cockpit
+		- F-100 Intake
+		- F-22 Elevon
+		- 5 Various New Intakes (Provided by SuicidalInsanity)
+	+ Niceties provided by Skalou
+		- Updating the use of Stock textures to KSP >= 1.8.0
+		- Support for Kerbalism
+		- Some nice tweaks to the parts
+			- Airlock and ladders to some crew cabins
+			- Better Stock wheels support
+			- Fixes Cessna lights
+	+ Niceties provided by LisiasT
+		- Parts are categorised on the Part's Menu.
+		- Config files syntax checking and fixes.
+	+ Works issues
+		- [#2](https://github.com/net-lisias-ksp/AirplanePlus/issues/2) Add a Category entry to A+ 

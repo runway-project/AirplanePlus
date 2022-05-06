@@ -36,7 +36,7 @@ Under current circumstances, this fork is serving as the home of all part additi
 * F-100 Cockpit
 * F-100 Intake
 * F-22 Elevon
-* 5 Various Side Intakes (Provided by SuicidalInsanity)
+* 5 Various New Intakes (Provided by SuicidalInsanity)
 
 ### Current Parts Planned:
 * BAD-T Jets (Provided by SuicidalInsanity)

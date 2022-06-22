@@ -1,5 +1,7 @@
 # Airplane+ :: Change Log
 
+* 2022-0622: 26.6.0.1 (Drag0nD3str0yer & LisiasT) for KSP => 1.8.0
+	+ Fixes a really stupid mistake on the FAR patch that I let pass trough. #facePalm
 * 2022-0506: 26.6.0.0 (Drag0nD3str0yer & LisiasT) for KSP => 1.8.0
 	+ Marks the stewardship of AirplanePlus to Drag0nD3str0yer & LisiasT.
 	+ Adds new parts (by Drag0nD3str0yer)
